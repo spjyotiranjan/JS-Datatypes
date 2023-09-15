@@ -10,19 +10,19 @@ const check = document.getElementById('check');
 
 // Challenge 1: Assign a string value to the below variable.
 
-var stringData;
+var stringData = "Hello";
 // Your code goes here
 
 // Challenge 2: Assign a number value to the below variable.
-var numbersData;
+var numbersData = 69;
 // Your code goes here
 
 // Challenge 3: Assign a boolean value to the below variable.
-var booleanData;
+var booleanData = true;
 // Your code goes here
 
 // Challenge 4: Assign a null value to the below variable.
-var nullData;
+var nullData = null;
 // Your code goes here
 
 // Challenge 5: Assign an undefined value to the below variable.
